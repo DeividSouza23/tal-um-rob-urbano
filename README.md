@@ -1,8 +1,6 @@
-## estou apenas iniciando o meu código 
+## estou apenas iniciando o meu código  
 
-#Meu primeiro código 
-
-##criador
+## criador
 
 - Deivid 
 
